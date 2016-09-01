@@ -26,13 +26,13 @@
 	* How long does it take before the average post is answered?
 	* How many answered posts are there right now?
 	* How many unanswered posts are there right now?
-	* Most unresolved vs. resolved posts: What are the popoular terms used? 
+	* **Most unresolved vs. resolved posts / repeat posts:** What are the popoular terms used? 
 	* What features are trending up / down?
 	* How negative or positive are posts?
 5. What topics are most likely to be viewed?
 	* What are the popoular terms used?
 	* How often are youtube videos / outside links included?
-	* How often do people link to previous posts?
+	* **How often do people link to previous posts?**
 4. Autodesk Employees
 	* Which Autodesk employees are answering which posts?
 
